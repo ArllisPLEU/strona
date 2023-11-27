@@ -1,0 +1,20 @@
+table, tr, td {
+    border: 2px solid rgb(34, 34, 34);
+    border-collapse: collapse;
+    padding-right: 15px;
+}
+td {
+    font-family: Calibri;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    padding-top: 4px;
+    padding-bottom: 3px;
+    padding-left: 10px;
+}
+table{
+    margin-left: 25px;
+}
+.nazwa {
+    color: rgb(204 204 204);
+}

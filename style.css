@@ -10,6 +10,13 @@ h1 {
     padding-top: 10px;
     font-size: 25px;
 }
+h3 {
+    font-family: Calibri;
+    text-align: center;
+    color: white;
+    padding-top: 4px;
+    font-size: 25px;
+}
 h4 {
     color: white;
     font-family: Calibri;
@@ -97,7 +104,7 @@ iframe {
     text-align: center;
     color: white;
     font-size: 25px;
-    padding-left: 70px;
+    margin-left: 70px;
     text-decoration: none;
 }
 .linki2 {

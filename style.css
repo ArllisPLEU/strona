@@ -106,6 +106,15 @@ iframe {
     font-size: 25px;
     margin-left: 70px;
     text-decoration: none;
+    
+}
+.linki:hover {
+     font-family: Calibri;
+     text-align: center;
+     color: rgb(201 201 201);
+     font-size: 25px;
+     margin-left: 70px;
+     text-decoration: none;
 }
 .linki2 {
     color: white;
